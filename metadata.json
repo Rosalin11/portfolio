@@ -1,0 +1,6 @@
+{
+  "name": "Professional Portfolio",
+  "description": "An interactive portfolio showcasing professional software projects, engineering case studies, skills, and contact inquiry form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
